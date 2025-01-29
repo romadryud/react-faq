@@ -6,8 +6,8 @@ Helpful collection of common questions and clear answers about React ecosystem.
 
 ## Table of Contents
 
-- [How to create new project?](#how-to-create-new-project?)
-- [Why am I seeing two messages for one console.log?](#why-am-I-seeing-two-messages-for-one-console.log?)
+- [How to create new project?](#How-to-create-new-project)
+- [Why am I seeing two messages for one console.log?](#Why-am-I-seeing-two-messages-for-one-consolelog)
 
 ### How to create new project?
 
